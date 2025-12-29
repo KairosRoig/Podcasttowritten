@@ -48,17 +48,10 @@ python voz.py
 - `.streamlit/` — configuración y secretos de Streamlit
 - `requirements.txt` — dependencias del proyecto
 
-## 📦 Buenas prácticas
-- Añade un archivo `.env` o usa `secrets.toml` para credenciales; no subir credenciales al repo.
-- Añade tests y documentación adicional según el desarrollo del proyecto.
-
 ## 🤝 Contribuir
 1. Haz un fork del repositorio
 2. Crea una rama feature: `git checkout -b feature/nombre`
 3. Envía un pull request explicando los cambios
-
-## 📄 Licencia
-Indica aquí la licencia del proyecto (por ejemplo, MIT). Si quieres, la añado por ti.
 
 ## 📬 Contacto
 Para dudas o colaboración: `j.roigmartin@gmail.com`

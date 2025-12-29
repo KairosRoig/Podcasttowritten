@@ -1,0 +1,6 @@
+streamlit
+azure-cognitiveservices-speech
+numpy
+scipy
+soundfile
+mutagen

@@ -1,0 +1,125 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+download/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Translations
+*.mo
+
+# Django stuff:
+*.log
+local_settings.py
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# dotenv
+.env
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Audio outputs
+*.mp3
+*.wav
+
+# Others
+*.sqlite3
+.DS_Store
+
+# Ignore local secrets
+.env
+
+# Ignore distribution files
+/dist
+
+# Ignore compiled python files
+*.pyc
+
+# Local config
+config.json
+
+# node
+node_modules/
+
+# docker
+.env
+
+# backup
+*.bak
+*~
